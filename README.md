@@ -8,7 +8,7 @@ Floating button with sub-items
 
 ## Requirements
 
-Bootstrap, for icons
+Font-awesome, for icons
 
 
 ## Authors and acknowledgment
